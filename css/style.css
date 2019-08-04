@@ -1,0 +1,5 @@
+.box {
+	min-height: 20px;
+	background: linear-gradient(to right, #c549ca, #681c6c);
+	margin: 10px;
+}
